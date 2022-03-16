@@ -23,3 +23,13 @@ function addName(a, b) {
                 
 let name = addName('Ivan', 'Vodkin');
 ```
+### Work experience
+Made two sites. The first site. Here are the scenarios of various holidays (birthday, wedding, Christmas, etc.).
+The second site. Here are collected poetic congratulations on birthdays, weddings, New Years, etc. JavaScript and PHP were used to create the sites.
+
+### Education and courses
+* Self-education
+* Html Academy
+* Rs School
+
+### English - A 1
