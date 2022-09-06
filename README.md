@@ -1,2 +1,2 @@
-## https://syarguk.github.io/rsschool-cv/cv
-## https://syarguk.github.io/rsschool-cv/
+## https://syarguk.github.io/rsschool-cv-1/cv
+## https://syarguk.github.io/rsschool-cv-3/
